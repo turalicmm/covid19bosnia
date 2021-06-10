@@ -1,4 +1,4 @@
-#covid19bosnia.netlify.app
+covid19bosnia.netlify.app
 
 # covid19bosnia
 Super simple covid 19 tracker for bosnia
